@@ -3,7 +3,7 @@
 
 A full-stack web application for managing user information using Node.js, Express, EJS, and MySQL. Users can add, search, update, and delete user records stored in a MySQL database through a simple web interface.
 
----
+
 
 ## Features
 
@@ -16,7 +16,7 @@ A full-stack web application for managing user information using Node.js, Expres
 - MySQL database connectivity  
 - Responsive layout with static files served via Express  
 
----
+
 
 ## How to Run
 
@@ -51,7 +51,7 @@ A full-stack web application for managing user information using Node.js, Expres
    http://localhost:3000
    ```
 
----
+
 
 ## Project Files
 
@@ -60,7 +60,7 @@ A full-stack web application for managing user information using Node.js, Expres
 - `views/` — EJS templates for rendering pages  
 - `public/` — Static assets (CSS, images, optional JS)  
 
----
+
 
 ## Database Table Structure (`user_info`)
 
@@ -80,7 +80,7 @@ A full-stack web application for managing user information using Node.js, Expres
    );
    ```
 
----
+
 
 ## Requirements
 
@@ -88,7 +88,7 @@ A full-stack web application for managing user information using Node.js, Expres
 - MySQL database  
 - Modern web browser (for front-end interaction)  
 
----
+
 
 ## Notes
 
